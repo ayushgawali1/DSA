@@ -1,5 +1,5 @@
 <h1>Day 3</h1>
-<p>It conatin If-Else and Switch</p>
+<p>If-Else and Switch</p>
 <ol>
   <li>Prog1 - Check Number is Even or Odd</li>
   <li>Prog2 - Check Number is Positive or Negative</li>
